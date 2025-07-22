@@ -33,7 +33,6 @@ Azure Cosmos DB (Counter Storage)
 
 ### DevOps & Deployment
 - **GitHub Actions** - CI/CD pipeline automation
-- **Terraform** - Infrastructure as Code (planned)
 - **Git** - Version control
 
 ## ✨ Features
@@ -176,17 +175,6 @@ Configure CORS in Azure Function App settings to allow requests from your domain
 - **Azure Portal** - Resource monitoring and metrics
 - **GitHub Actions** - Build and deployment status
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
